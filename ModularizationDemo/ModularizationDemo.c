@@ -1,5 +1,5 @@
 /*
-Description: Modularization for Tutorial 12 Q6
+Description: Modularization for Tutorial 12 Q6 ^_^
 */
 
 #include<stdio.h>
